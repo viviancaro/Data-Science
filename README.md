@@ -8,7 +8,7 @@ El objetivo de este proyecto es realizar un primer análisis exploratorio sobre 
 
 
 ## [Proyecto 2: Limpieza y Transformación de Datos](https://github.com/viviancaro/Limpieza-y-transformacion-de-datos)
-El objetivo de este proyecto es continuar con la limpieza de datos, aplicando diferentes técnicas para remover valores faltantes y outliers, También agregar nuevos atributos al DataFrame.
+El objetivo de este proyecto es continuar con la limpieza de datos, aplicando diferentes técnicas para remover valores faltantes y outliers, también agregar nuevos atributos al DataFrame.
 
 ![](Images/Image2.png)
 
