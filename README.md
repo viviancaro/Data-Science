@@ -13,7 +13,7 @@ El objetivo de este proyecto es continuar con la limpieza de datos, aplicando di
 ![](Images/Image2.png)
 
 
-## [Proyecto 3: Modelos de Predicción](https://github.com/viviancaro/Modelos-de-Prediccion)
+## [Proyecto 3: Predicción del Precio de Propiedades](https://github.com/viviancaro/Modelos-de-Prediccion)
 El objetivo general de este proyecto es armar un modelo sencillo para predecir el precio de propiedades en dólares, utilizando DecisionTreeRegressor y KNeighborsRegressor de Scikit-learn. El objetivo específico es lograr mayor precisión en la predicción del modelo, para ello se trabaja en el ajuste de los parámetros y su evaluación. La métrica utilizada es RMSE (raíz del error cuadrático medio) y se trabaja sobre un Dataset sobre propiedades a la venta, el cual ya ha sido limpiado.
 
 ![](Images/Image3.png)
