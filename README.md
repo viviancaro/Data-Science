@@ -24,7 +24,7 @@ El objetivo de este proyecto corto se centra en optimizar los parámetros sobre 
 ![](Images/Image4.png)
 
 
-## [Proyecto 5: Modelos de Clasificación y Regresión](https://github.com/viviancaro/Modelos-de-Clasificacion-y-Regresion)
+## [Proyecto 5: Análisis y Clasificación de Sentimientos](https://github.com/viviancaro/Modelos-de-Clasificacion-y-Regresion)
 El objetivo de este proyecto, es realizar una clasificación de comentarios de acuerdo al sentimiento positivo o negativo expresado en ellos. El análisis se realiza en un conjunto de datos sobre reviews de películas y se trabaja con procesamiento de texto para luego aplicar diferentes técnicas predictivas. En este caso no se utiliza un archivo '.csv', sino con un directorio estructurado.
 
 ![](Images/Image5.png)
