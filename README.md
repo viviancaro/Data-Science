@@ -1,5 +1,4 @@
-# Vivian Portafolio
-Proyectos de Data Science y y Machine Learning.
+# Data Science y Machine Learning
 
 ## [Proyecto 1: Exploración de Datos](https://github.com/viviancaro/Exploracion-de-Datos)
 El objetivo de este proyecto es realizar un primer análisis exploratorio sobre un dataset, partiendo de la importación de las bibliotecas necesarias para la exploración y descripción de los datos. Para este análisis se utilizan las bibliotecas Pandas, Numpy, Seaborn y MatplotLib.
